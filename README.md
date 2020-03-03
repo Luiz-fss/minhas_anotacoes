@@ -1,6 +1,18 @@
 # minhas_anotacoes
 
-A new Flutter application.
+Aplicativo desenvolvido com o Flutter.
+
+Te permite criar, atualizar e remover as suas anotações, possui todas as funcionalidade de um CRUD
+
+Dependências utilizadas no projeto :
+
+intl: ^0.16.1
+sqflite: ^1.2.1
+
+Link para as bibliotecas :
+
+https://pub.dev/packages/intl
+https://pub.dev/packages/intl
 
 ## Getting Started
 
